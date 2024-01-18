@@ -1,12 +1,9 @@
-[
-  {
+{
     "ID": "1",
     "Name": "Phi Nguyệt Tiên Du Hí",
     "Version": 1.0,
     "Link": "https://gamenhanvan.xyz/game/pnt-38",
-    "UrlBin": "Game",
-    "UrlData": "Game",
+    "UrlBin": "https://raw.githubusercontent.com/baoenzo/PatchUpdate/main/data/pnt/tv1.bin",
+    "UrlData": "https://raw.githubusercontent.com/baoenzo/PatchUpdate/main/data/pnt/tv2.bin",
 	"Author": "Baoenzo"
-  }
- 
-]
+}
